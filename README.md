@@ -49,8 +49,6 @@ This video demonstrates real-time PBR rendering, image-based lighting response a
 ![Scene2](screenshots/Screenshot2.png)
 ![Scene3](screenshots/Screenshot3.png)
 
-```
-
 ## ⬇️ Cloning the Repository
 
 To clone the project **with all dependencies included**, use:
