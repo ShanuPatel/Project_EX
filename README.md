@@ -95,3 +95,4 @@ Third-party libraries are managed through a dedicated **ExternalLibrary** module
 ## 📜 License
 This project is open-source and provided for educational purposes.
 Third-party libraries are subject to their respective licenses.
+This project is licensed under the MIT License.
