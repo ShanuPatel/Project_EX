@@ -67,7 +67,7 @@ If you already cloned without submodules:
 ```bash
 git submodule update --init --recursive
 ```
-🚧 Status
+## 🚧 Status
 This project is actively developed and primarily intended for:
 
 Learning advanced rendering techniques
@@ -78,25 +78,22 @@ Demonstrating real-time graphics concepts
 
 It is not intended as a production-ready engine.
 
-📜 License
+## 📜 License
 This project is open-source and provided for educational purposes.
 Third-party libraries are subject to their respective licenses.
 
-🙌 Acknowledgements
+## 🙌 Acknowledgements
 Special thanks to the graphics programming community and open educational resources that make projects like this possible.
 
 ## 🙏 Special Mentions
 
 Huge shout out to the following resources and creators whose work greatly influenced this project:
 
-- **:contentReference[oaicite:0]{index=0}**  
-  For his in-depth C++ engine development video series and the open-source **Hazel** engine, which inspired core engine architecture and rendering abstractions.  
+- For his in-depth C++ engine development video series and the open-source **Hazel** engine, which inspired core engine architecture and rendering abstractions.  
   Original project: TheCherno/Hazel
 
-- **:contentReference[oaicite:1]{index=1}**  
-  For clear, practical explanations of OpenGL fundamentals, PBR theory, image-based lighting, and modern rendering workflows.
+- For clear, practical explanations of OpenGL fundamentals, PBR theory, image-based lighting, and modern rendering workflows.
 
-- **:contentReference[oaicite:2]{index=2}** by **:contentReference[oaicite:3]{index=3}**  
-  For providing deep insight into real-world engine design, systems thinking, and large-scale engine structure.
+- For providing deep insight into real-world engine design, systems thinking, and large-scale engine structure.
 
 These resources were invaluable for learning and experimentation, and this project build
