@@ -45,9 +45,9 @@ This video demonstrates real-time PBR rendering, image-based lighting response a
 
 ## 🖼️ Screenshots
 
-![PBR Scene](screenshots/pbr_scene.png)
-![IBL Lighting](screenshots/ibl_lighting.png)
-![Editor View](screenshots/editor_view.png)
+![Scene1](screenshots/Screenshot1.png)
+![Scene2](screenshots/Screenshot2.png)
+![Scene3](screenshots/Screenshot3.png)
 
 ---
 
