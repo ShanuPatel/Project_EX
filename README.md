@@ -49,6 +49,25 @@ This video demonstrates real-time PBR rendering, image-based lighting response a
 ![Scene2](screenshots/Screenshot2.png)
 ![Scene3](screenshots/Screenshot3.png)
 
+```
+
+## ⬇️ Cloning the Repository
+
+To clone the project **with all dependencies included**, use:
+
+```bash
+git clone --recurse-submodules https://github.com/ShanuPatel/Project_EX.git
+```
+If you already cloned without submodules:
+
+```bash
+git submodule update --init --recursive
+```
+## 🚧 Status
+This project is actively developed and primarily intended for learning advanced rendering techniques, experimenting with engine architecture, and demonstrating real-time graphics concepts.
+
+It is not intended to be a production-ready engine.
+
 ---
 
 ## 📚 Learning & Inspiration
@@ -73,38 +92,6 @@ Third-party libraries are managed through a dedicated **ExternalLibrary** module
 
 ---
 
-## ⬇️ Cloning the Repository
-
-To clone the project **with all dependencies included**, use:
-
-```bash
-git clone --recurse-submodules https://github.com/ShanuPatel/Project_EX.git
-```
-If you already cloned without submodules:
-
-```bash
-git submodule update --init --recursive
-```
-## 🚧 Status
-This project is actively developed and primarily intended for learning advanced rendering techniques, experimenting with engine architecture, and demonstrating real-time graphics concepts.
-
-It is not intended to be a production-ready engine.
-
 ## 📜 License
 This project is open-source and provided for educational purposes.
 Third-party libraries are subject to their respective licenses.
-
-## 🙏 Special Mentions
-Huge shout out to the following resources and creators whose work greatly influenced this project:
-
-Yan Chernikov (The Cherno)
-For his in-depth C++ engine development video series and the open-source Hazel engine.
-Original project: https://github.com/TheCherno/Hazel
-
-LearnOpenGL.com
-For clear, practical explanations of OpenGL fundamentals, PBR theory, and modern rendering workflows.
-
-Game Engine Architecture by Jason Gregory
-For deep insight into real-world engine design, systems thinking, and large-scale engine structure.
-
-These resources were invaluable for learning and experimentation, and this project builds upon those ideas with a custom implementation.
