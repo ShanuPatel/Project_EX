@@ -1,17 +1,15 @@
 # Project_EX
 
-**Project_EX** is a custom real-time renderer built with **C++ and OpenGL**, featuring a lightweight game/editor-style workflow and a modular engine architecture.
+**Project_EX** is a custom real-time renderer built with **C++ and OpenGL**, featuring a lightweight workflow and a modular engine architecture.
 
-The project focuses on modern rendering techniques, a physically based rendering (PBR) pipeline, and an interactive editor UI designed for experimentation and learning.
+The project focuses on modern rendering techniques, a physically based rendering (PBR) pipeline designed for experimentation and learning.
 
 ---
 
 ## ✨ Overview
 
-Project_EX implements a modern graphics pipeline with support for both **forward** and **deferred rendering**.  
+Project_EX implements a modern graphics pipeline with support for both **forward** 
 It emphasizes clean architecture, explicit resource management, and a custom asset pipeline suitable for engine-level development.
-
-The renderer is paired with a real-time editor interface that enables scene inspection, material tweaking, and rapid iteration.
 
 ---
 
