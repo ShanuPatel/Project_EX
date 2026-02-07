@@ -15,11 +15,11 @@ It emphasizes clean architecture, explicit resource management, and a custom ass
 
 ## 🔥 Features
 
-- 🔹 **Physically Based Rendering (PBR)**
-- 🔹 **Image-Based Lighting (IBL)** with GGX BRDF
-- 🔹 **HDR Rendering & Tone Mapping**
-- 🔹 **Forward Rendering Pipeline**
-- 🔹 **Custom Asset Loading Pipeline**
+🔹 **Physically Based Rendering (PBR)**
+🔹 **Image-Based Lighting (IBL)** with GGX BRDF
+🔹 **HDR Rendering & Tone Mapping**
+🔹 **Forward Rendering Pipeline**
+🔹 **Custom Asset Loading Pipeline**
 
 ---
 
